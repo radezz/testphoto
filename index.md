@@ -6,3 +6,6 @@ layout: default
 title: Home
 ---
 
+<p class="someclass"> 
+Some text
+</p>
